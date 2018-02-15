@@ -1,2 +1,2 @@
 # mesher-papers
-White paper for Mesher
+White paper and supporting docs for Mesher
